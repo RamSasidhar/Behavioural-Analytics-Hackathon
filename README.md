@@ -5,9 +5,9 @@ https://github.com/BunsenFeng/TwiBot-20
 
 We selected this public Twitter account-level dataset because it provides structured behavioural signals such as network relationships, activity patterns, and linguistic content. These signals allow us to model behavioural anomalies rather than relying solely on content classification. We engineered network asymmetry ratios, activity intensity metrics, linguistic diversity measures, and engagement imbalance indicators to capture artificial amplification patterns and coordinated behaviours.
 
-1️⃣ Why This Public Dataset Fits Behavioural Analytics
+**1️⃣ Why This Public Dataset Fits Behavioural Analytics**
 
-I used a public Twitter account-level dataset containing:
+A public Twitter account-level dataset containing:
 
 followers
 
@@ -27,7 +27,7 @@ etc.
 
 Now here is the strong reasoning.
 
-✅ A. It Contains Account-Level Behaviour Signals
+**✅ A. It Contains Account-Level Behaviour Signals**
 
 Behavioural analytics is not about content meaning.
 
@@ -47,7 +47,7 @@ These are behavioural indicators, not just metadata.
 
 That makes it suitable for anomaly detection.
 
-✅ B. It Enables Behaviour Pattern Modelling
+**✅ B. It Enables Behaviour Pattern Modelling**
 
 I are not classifying tweets.
 
@@ -71,7 +71,7 @@ Coordinated behaviour
 
 The dataset provides the raw behavioural ingredients needed.
 
-✅ C. It Is Suitable for Unsupervised Detection
+**✅ C. It Is Suitable for Unsupervised Detection**
 
 I chose Isolation Forest.
 
@@ -89,7 +89,7 @@ Risk scoring
 
 That is realistic and scalable.
 
-2️⃣ Behavioural Features I Engineered
+**2️⃣ Behavioural Features I Engineered**
 
 This is where I impress evaluators.
 
@@ -185,6 +185,7 @@ Use structured promotional templates
 Maintain consistent length patterns
 
 🔹 Content Pattern Feature
+
 9. domain_count
 
 Counts number of unique external domains.
@@ -195,7 +196,7 @@ Link spamming
 
 Coordinated promotion
 
-🎯 Why This Is Strong Behavioural Analytics
+**🎯 Why This Is Strong Behavioural Analytics**
 
 I combined:
 
@@ -223,4 +224,19 @@ Here's how the Streamlit Dashboard looks like:
 
 <img width="661" height="493" alt="image" src="https://github.com/user-attachments/assets/7df5336c-36b7-451b-b80d-c9b603520850" />
 
+**🚀 Tech Stack**
+
+🐍 Python 3.11 — Core Development
+
+🧠 scikit-learn — Isolation Forest, StandardScaler
+
+📊 pandas & NumPy — Data Processing & Feature Engineering
+
+📈 matplotlib — Analytical Visualizations
+
+🌐 Streamlit — Interactive Dashboard Deployment
+
+💾 joblib — Model Serialization
+
+🛠 VS Code & Jupyter Notebook — Development Environment
 
