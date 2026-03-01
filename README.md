@@ -212,3 +212,15 @@ Content externalization pattern
 This is multi-dimensional behavioural modelling.
 
 Not simple classification.
+
+Here's how the Streamlit Dashboard looks like:
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/ad497b83-8791-40b8-9601-df6ad4288ba0" />
+
+<img width="1493" height="628" alt="image" src="https://github.com/user-attachments/assets/c130df96-2259-4678-af0b-9fb988696afe" />
+
+<img width="1471" height="636" alt="image" src="https://github.com/user-attachments/assets/fbbeed23-6d25-463d-a893-d5d3718a19b4" />
+
+<img width="661" height="493" alt="image" src="https://github.com/user-attachments/assets/7df5336c-36b7-451b-b80d-c9b603520850" />
+
+
