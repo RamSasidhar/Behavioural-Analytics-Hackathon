@@ -14,17 +14,25 @@ Challenge
 Build a behavioural detection model that:
 
 • Differentiates organic versus artificial engagement
+
 • Detects coordinated behavioural anomalies
 
 Behavioural Indicators
+
 • Timing regularity
+
 • Engagement burst patterns
+
 • Network interaction patterns
+
 • Linguistic consistency
 
 Expected Output
+
 • Authenticity Score
+
 • Bot Probability
+
 • Behavioural anomaly explanation
 
 **DATASET SOURCE LINK AND GITHUB LINK:**
